@@ -1,1 +1,1 @@
-apply plugin: 'java-library'
+apply plugin: 'android-library'
